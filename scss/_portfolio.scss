@@ -1,4 +1,24 @@
 // Styling for the portfolio section
+.softicon {
+  div {
+    text-align: center;
+    img {
+      max-height: 90px;
+    }
+  }
+}
+
+.texthighlight {
+  background-color: $secondary;
+  color: white;
+  padding: 3px;
+}
+
+.hashtag {
+  border: 1px $secondary solid;
+  padding: 3px;
+}
+
 .portfolio {
   margin-bottom: -15px;
   .portfolio-item {
@@ -61,3 +81,5 @@
     }
   }
 }
+
+.material-icons.md-60 { font-size: 60px; }

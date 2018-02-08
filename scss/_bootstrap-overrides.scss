@@ -13,7 +13,7 @@ a {
 }
 
 .bg-primary {
-  background-color: $primary !important;
+  background-color: $bgcolor !important;
 }
 
 .bg-secondary {
@@ -49,3 +49,4 @@ a {
     border-color: darken($secondary, 10%);
   }
 }
+
