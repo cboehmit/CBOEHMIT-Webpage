@@ -1,6 +1,11 @@
 header.masthead {
-  padding-top: calc(6rem + 72px);
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
   padding-bottom: 6rem;
+
   background-image: url("../img/people-office-group-team.jpg");
   background-size: cover;
   min-height: 650px;
